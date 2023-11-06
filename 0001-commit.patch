@@ -1,0 +1,25 @@
+From 9359e6020a26e63abb6247481f4640367e5ae321 Mon Sep 17 00:00:00 2001
+From: alijonoff <azimjonalijonoff@gmail.com>
+Date: Sun, 5 Nov 2023 22:56:42 +0500
+Subject: [PATCH] commit
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 15fedf6..b652e2e 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,6 +1,6 @@
+ 1git1firstFiletxt
+-2
+-3
++2changegit1firstext
++3changegit1firsttex
+ 4
+ 5
+ 6
+-- 
+2.39.1.windows.1
+

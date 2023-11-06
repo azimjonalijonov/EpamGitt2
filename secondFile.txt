@@ -1,6 +1,6 @@
 1git1seconfile
-2changeother
-3changeother
+2changegit2secondtxt
+3changegitsecondtxt
 4
 5
 6
